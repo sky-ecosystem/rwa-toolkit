@@ -38,3 +38,13 @@ make deploy-goerli
 ```
 make deploy-mainnet
 ```
+
+## Audits
+
+Audit reports are hosted on the auditors' public portfolio pages:
+
+| Auditor | Report | Date |
+| --- | --- | --- |
+| ChainSecurity | [MakerDAO RWA Toolkit](https://www.chainsecurity.com/security-audit/makerdao-rwa-toolkit/) | 2023-07-06 |
+
+ChainSecurity reports are cumulative: each portfolio page hosts the latest version of the report, which covers all previously reviewed versions.
